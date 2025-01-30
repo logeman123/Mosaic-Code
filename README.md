@@ -1,0 +1,1 @@
+Mosaic is an app that takes contours of a scan of a face and compares it to similar faces, creating a more clear representation of a persons image.
